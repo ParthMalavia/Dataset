@@ -1,0 +1,21 @@
+﻿customer_id,name,gender,place,month_of_purchase,brand_of_mobile,cost_of_mobile,profit,shares
+0,Raleigh  ,M,Kerry,March,OPPO,10990,5495.00,1318.8
+1,Frankie  ,M,Aurore,April,ONEPLUS,14999,22498.50,5624.625
+2,Ruthanne  ,F,Genesis,January,REALME,,,
+3,Dorothy  ,F,Kerry,October,REALME,8999,1799.80,1727.808
+4,Roselia  ,,Genesis,December,REALME,8999,1799.80,1727.808
+5,Beverlee  ,F,Kerry,June,REALME,,,
+6,Julienne  ,F,Genesis,March,ONEPLUS,14999,22498.50,5624.625
+7,Lamont  ,M,Aurore,July,ONEPLUS,14999,22498.50,5624.625
+8,Mauro  ,M,Genesis,January,ONEPLUS,14999,22498.50,5624.625
+9,Trenton  ,M,Kerry,February,,8999,1799.80,1727.808
+10,Keshia  ,F,Genesis,August,OPPO,10990,5495.00,1318.8
+11,Shala  ,F,Kerry,June,REALME,8999,1799.80,1727.808
+12,Kristel  ,F,Aurore,February,ONEPLUS,14999,22498.50,5624.625
+13,Junie  ,,Aurore,June,,14999,2999.80,2879.808
+14,Olga  ,F,Aurore,September,REALME,8999,1799.80,1727.808
+15,Rosette  ,F,Genesis,April,OPPO,,,
+16,Jada  ,F,Aurore,January,OPPO,10990,5495.00,1318.8
+17,Loraine  ,M,Kerry,September,OPPO,10990,5495.00,1318.8
+18,Monet  ,M,Kerry,March,OPPO,10990,5495.00,1318.8
+19,Shemeka  ,M,Genesis,November,REALME,8999,1799.80,1727.808
